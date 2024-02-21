@@ -1,0 +1,10 @@
+Align schematic to default 0.635mm grid.
+Add logo and mounting holes into schematic.
+Enable "Exclude from simulation" attribute on all components.
+Rearrange USB section.
+Move symbols and footprints into project libraries.
+Create +2V8 symbol and use it. Changing the value on a power symbol doesn't change everything, the voltage is on the pin in the symbol.
+Minor silkscreen fixes.
+Update schematic to match board layout attributes, enabling to update pcb from schematic without issues.
+Add "power supply" designators in the schematic to help ERC.
+ERC and DRC free of issues.
