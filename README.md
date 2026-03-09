@@ -10,7 +10,7 @@ Teacup T31 development board
 
 Tested config as follows:
 
-## Operating System: OpenIPC 
+## Operating System: Thingino, also limited testing with Debian and Slackware for MIPS32
 
 ## Video: Camera sensor Sony IMX327 confirmed working with 15pin PiCam module. 
 ```~~https://www.amazon.com/dp/B085VLS96S~~```
