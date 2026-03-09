@@ -2,7 +2,8 @@
 ![image](https://github.com/CapnRon/Teacup-Rev-C/assets/109708692/905a7fd2-8cfd-4323-8524-c1d3a89fc0b4)
 
 # TLDR: Where do i get one?
-https://ronshed.com/product/tea-cup-revc3-3-development-board/
+Message me on the Hacker Homestead discord 
+```https://discord.gg/FJ6uJrs4k3```
 
 # Teacup-Rev-C
 Teacup T31 development board
@@ -12,7 +13,9 @@ Tested config as follows:
 ## Operating System: OpenIPC 
 
 ## Video: Camera sensor Sony IMX327 confirmed working with 15pin PiCam module. 
-```https://www.amazon.com/dp/B085VLS96S```
+```~~https://www.amazon.com/dp/B085VLS96S~~```
+```https://www.aliexpress.com/item/1005010545985633.html```
+```https://www.inno-maker.com/product/cam-mipi327raw/```
 
 To initialize the camera sensor on boot issue the following command.
 ```fw_setenv sensor imx327``` 
