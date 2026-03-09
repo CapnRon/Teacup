@@ -13,9 +13,13 @@ Tested config as follows:
 ## Operating System: Thingino, also limited testing with Debian and Slackware for MIPS32
 
 ## Video: Camera sensor Sony IMX327 confirmed working with 15pin PiCam module. 
-~~https://www.amazon.com/dp/B085VLS96S~~
-[Aliexpress](https://www.aliexpress.com/item/1005010545985633.html)
-[Inno-maker](https://www.inno-maker.com/product/cam-mipi327raw/)
+
+[Aliexpress](https://www.aliexpress.com/item/1005010545985633.html)  
+
+[Inno-maker](https://www.inno-maker.com/product/cam-mipi327raw/)  
+
+[~~Amazon~~](https://www.amazon.com/dp/B085VLS96S)  
+
 
 To initialize the camera sensor on boot issue the following command.
 ```fw_setenv sensor imx327``` 
@@ -31,5 +35,5 @@ GMAC PHY also pinned out to a header for use with an external phy.
 Audio out and Mic tested and work
 
 ## Firmware
-Thingino firmware, code is available on their Github
+Thingino firmware, code is available on the Github
 [Thingino](https://github.com/themactep/thingino-firmware/wiki)
